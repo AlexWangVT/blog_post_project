@@ -2,20 +2,21 @@
 A data based approach using StackOverflow's developer survey data from 2017.
 
 ## Introduction
-It is widely accepted that the high tech field offers amazing salary and welfare package, which attracts increasingly more professionals from other areas. However, it is still unknown that who might be interested in and more willing to moving their current careers towards the high tech field. People may have different point of view on this, yet the survey data collected from current developers by Stack Overflow may give valuable insights into the questions of interest.
+It is widely accepted that the high tech field offers amazing salary and welfare package, which attracts increasingly more professionals from other areas. However, it is still unknown that who might be interested in and more willing to moving their current careers towards the high tech field. People may have different point of view on this, yet the survey data collected from current developers by Stack Overflow may give valuable insights into the questions of interest. The survey data covers 64,000 reviews from 213 countries and territories. The survey aims to understand multiple aspects of jobs related to software development and data analytics. 
 
-![](https://file%2B.vscode-resource.vscode-cdn.net/Volumes/work/Course%20Lecture/Udacity/DataScientistNanodegree/projects/blog_post_project/becomeDeveloper.jpeg?version%3D1654112469115)
+We are interested in deep diving the solutions to three questions of interest:
 
-The survey data covers 64,000 reviews from 213 countries and territories. The survey aims to understand multiple aspects of jobs related to software development and data analytics. 
+* What kind of people are more likely to participate in bootcamps?
+* How many years of progamming experiences for the participants going for a bootcamp?
+* What impacts the expected salary after graduation and how?
 
-### Markdown
+## Part I: What kind of people are more likely to participate in bootcamps?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Are people with advanced degrees more likely to switch to a career as software engineer, or those without formal education? What are the academic background of those engaging in the developer career? 
 
-```markdown
-Syntax highlighted code block
+[Figure 1](https://github.com/AlexWangVT/blog_post_project/blob/master/results/background.png) gives us a clear picture of the answers to those questions. More than 40% of the participants are holding a Bachelor degree and 20%+ holding a Master. Those without formal eduction experience have less sense to switch their careers to the high tech field. More than 75% of the developers have the computer or IT background. Most of them come from computer science or software engineering. The rest are from science, engineering, and other fields. 
 
-# Header 1
+## How many years 
 ## Header 2
 ### Header 3
 

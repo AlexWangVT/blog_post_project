@@ -32,3 +32,5 @@ The stackoverflow data is used for the analysis.
 * People with less than 10 years of programming and coding job experience are more likely to participant in bootcamp, with an exception of those with more than 20 years of experience. It is interesting to check why those with 20 more years of experience are interested in bootcamp.
 * The linear model presents underfit problem for expected salary prediction, which requires to be improved in the future if we could have more data that is highly related to the expected salary or use more advanced modeling approaches such as neural network.
 
+## Acknowledgement 
+The author would like to appreciate Stack Overflow for the data. The data can be found [here](https://www.kaggle.com/datasets/stackoverflow/so-survey-2017). Please feel free to use the code here as you would like!

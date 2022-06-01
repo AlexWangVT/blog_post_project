@@ -7,4 +7,4 @@ The purpose of this project is to investigate the background of bootcamp custome
 2. How many years of progamming experiences for the participants going for a bootcamp?
 3. What impacts the expected salary after graduation and how?
 
-#
+## Data Understanding

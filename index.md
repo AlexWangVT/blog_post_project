@@ -1,8 +1,10 @@
-## 
+# Who Are Interested in Becoming A Devoloper?
+A data based approach using StackOverflow's developer survey data from 2017.
 
-You can use the [editor on GitHub](https://github.com/AlexWangVT/blog_post_project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Introduction
+It is widely accepted that the high tech field offers amazing salary and welfare package, which attracts increasingly more professionals from other areas. However, it is still unknown that who might be interested in and more willing to moving their current careers towards the high tech field. People may have different point of view on this, yet the survey data collected from current developers by Stack Overflow may give valuable insights into the questions of interest.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[](/Volumes/work/Course Lecture/Udacity/DataScientistNanodegree/projects/blog_post_project/becomeDeveloper.jpeg)
 
 ### Markdown
 

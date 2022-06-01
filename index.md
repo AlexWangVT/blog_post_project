@@ -4,7 +4,7 @@ A data based approach using StackOverflow's developer survey data from 2017.
 ## Introduction
 It is widely accepted that the high tech field offers amazing salary and welfare package, which attracts increasingly more professionals from other areas. However, it is still unknown that who might be interested in and more willing to moving their current careers towards the high tech field. People may have different point of view on this, yet the survey data collected from current developers by Stack Overflow may give valuable insights into the questions of interest.
 
-[](/Volumes/work/Course Lecture/Udacity/DataScientistNanodegree/projects/blog_post_project/becomeDeveloper.jpeg)
+The survey data covers 64,000 reviews from 213 countries and territories. The survey aims to understand multiple aspects of jobs related to software development and data analytics. 
 
 ### Markdown
 

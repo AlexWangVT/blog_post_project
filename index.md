@@ -1,4 +1,4 @@
-# Who Are Interested in Becoming A Devoloper?
+# What is the background of developers and their career satisfaction 
 A data based approach using StackOverflow's developer survey data from 2017.
 
 ## Introduction
@@ -6,15 +6,19 @@ It is widely accepted that the high tech field offers amazing salary and welfare
 
 We are interested in deep diving the solutions to three questions of interest:
 
-* What kind of people are more likely to participate in bootcamps?
-* How many years of progamming experiences for the participants going for a bootcamp?
-* What impacts the expected salary after graduation and how?
+* What is the academic background of a developer?
+* How many years of programming experiences do the developers typically have?
+* Do developers satisfy their career?
 
-## Part I: What kind of people are more likely to participate in bootcamps?
+## Part I: What is the academic background of a developer?
 
 Are people with advanced degrees more likely to switch to a career as software engineer, or those without formal education? What are the academic background of those engaging in the developer career? 
 
-[Figure 1](https://github.com/AlexWangVT/blog_post_project/blob/master/results/background.png) gives us a clear picture of the answers to those questions. More than 40% of the participants are holding a Bachelor degree and 20%+ holding a Master. Those without formal eduction experience have less sense to switch their careers to the high tech field. More than 75% of the developers have the computer or IT background. Most of them come from computer science or software engineering. The rest are from science, engineering, and other fields. 
+[Figure 1](https://github.com/AlexWangVT/blog_post_project/blob/master/results/background.png) describes the academic background of the participants. More than 40% of the participants are holding a Bachelor degree and 20%+ holding a Master. Those without formal eduction experience have less sense to switch their careers to the high tech field. More than 75% of the developers have the computer or IT background. Most of them come from computer science or software engineering. The rest are from science, engineering, and other fields. 
+
+[Figure 2](https://github.com/AlexWangVT/blog_post_project/blob/master/results/background2.png) describe the career satisfaction and computer understanding of the participants. More than 70% of the participants satisfy their career with the satisfactory level ranging from 7 to 10. Also, more than half of them think that they understand computer well, yet near 40% think that they don't know a lot about computer and need further trainings. 
+
+## Part II: 
 
 ## How many years 
 ## Header 2

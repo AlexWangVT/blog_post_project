@@ -4,7 +4,7 @@ A data based approach using StackOverflow's developer survey data from 2017.
 ## Introduction
 It is widely accepted that the high tech field offers amazing salary and welfare package, attracting increasingly more professionals from other fields. However, it is still unknown who is more likely to become a developer and how long they may stay in the field. People may have different point of view on this, yet the survey data collected from current developers by Stack Overflow may give valuable insights into the questions of interest. The survey data covers 64,000 reviews from 213 countries and territories. The survey aims to understand multiple aspects of jobs related to software development and data analytics. 
 
-![Figure](developercareer.png)
+![Figure](developercareer.jpg)
 
 We are interested in deep diving the solutions to three questions of interest:
 
@@ -37,5 +37,7 @@ In this article, we provide a preliminary analysis about the background of devel
 3. Switching to a new career mostly happen 10-20 years after someone become a develper.
 
 The findings are observational and preliminary, and trigger an interesting question: 
-<span style="font-size:larger;">Why does career-hopping often occur 10-20 years after someone become a develper?</span>
 
+<span style="color:green;font-weight:700;font-size:20px">
+   Why does career-hopping often occur 10-20 years after someone become a develper?
+</span>

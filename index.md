@@ -1,4 +1,4 @@
-# What is the background of developers and their career satisfaction
+# What are the backgrounds of developers and their career satisfaction
 A data based approach using StackOverflow's developer survey data from 2017.
 
 ## Introduction
@@ -18,7 +18,7 @@ Are people with advanced degrees more likely to switch to a career as software e
 
 ![Figure 1](background1.png)<p align = "center">
 Fig.1-The academic background of developers</p> 
-Figure 1 describes the academic background of the participants. More than 40% of the participants are holding a Bachelor degree and 20%+ holding a Master. Those without formal eduction experience have less sense to switch their careers to the high tech field. More than 75% of the developers have the computer or IT background. Most of them come from computer science or software engineering. The rest are from science, engineering, and other fields. 
+Figure 1 describes the academic background of the participants. More than 40% of the participants are holding a Bachelor degree and 20%+ holding a Master. Those without formal eduction experience have less sense to switch their careers to the high tech field. More than 75% of the developers have computer or IT background. Most of them come from computer science or software engineering. The rest are from science, engineering, and other fields. 
 
 ## Part II: Do developers satisfy their career?
 ![Figure 2](background2.png)<p align = "center">

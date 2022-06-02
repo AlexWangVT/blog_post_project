@@ -7,29 +7,28 @@ The original author is Jinghui Wang. This project is created to partially meet t
 * matplotlib
 * sklearn
 
-
 ## Motivation of the project
-The purpose of this project is to investigate the background of bootcamp customers and their expected salaries after graduation, answering the following three questions:
+The purpose of this project is to investigate the background and career satisfaction of developers along with their expected salaries after graduation from bootcamp. We are trying to answer the following three questions:
 
-1. What kind of people are more likely to participate in bootcamps?
-2. How many years of progamming experiences for the participants going for a bootcamp?
-3. What impacts the expected salary after graduation and how?
+1. What are academic backgrounds of developers?
+2. Do developers satisfy their career and how long do they stay in the field?
+3. How to predict expected salary after graduation?
 
 The stackoverflow data is used for the analysis.
 
 ## Description of files in the repo
-* background_study.ipynb: examine the background of bootcamp participants in terms of formal eduction, major, career satisfaction, and computer understanding.
+* background_study.ipynb: examine the backgrounds of developers in terms of formal eduction, major, career satisfaction, and computer understanding.
 
-* program_experience.ipynb: investigate how many years of programming and coding job experiences the participants may have before going for bootcamp.
+* program_experience.ipynb: investigate how many years of programming and coding job experience developers typically have.
 
 * predict_expectedSalary: quantitatively analyze the expected salary after graduation using a linear model.
 
 ## Summary of results analysis
-* People with bachelor degree are most likely to participate in bootcamp, followed by those having Master degree. Those without any formal education is most unlikely to join bootcamp.
-* Half of the participants have the background of computer science or software engineering. Those with computer or quantitative background are more likely take bootcamp trainings. 
-* People with higher career satisfaction are more likely to participate in bootcamp.
-* Almost 60% of the participants think they don't understand a lot of things about computer so need to get trained to improve.
-* People with less than 10 years of programming and coding job experience are more likely to participant in bootcamp, with an exception of those with more than 20 years of experience. It is interesting to check why those with 20 more years of experience are interested in bootcamp.
+* People with bachelor or Master degree are most likely to become a developer. Those without any formal education is least likely to switch to a new career as a software developer.
+* Half of the participants have the background of computer science or software engineering. Those with computer or quantitative background are more likely to become a developer than others. 
+* More than 70% of the developers satisfy their career with the satisfactory level ranging from 7 to 10.
+* More than 60% of the participants think they don't understand a lot about computer but are willing to get further trainings to promote their careers in this field.
+* Switching to a new career mostly happen between 10 and 20 years after someone become a develper.
 * The linear model presents underfit problem for expected salary prediction, which requires to be improved in the future if we could have more data that is highly related to the expected salary or use more advanced modeling approaches such as neural network.
 
 ## Acknowledgement 

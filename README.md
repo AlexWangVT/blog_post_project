@@ -33,5 +33,3 @@ The stackoverflow data is used for the analysis.
 
 ## Acknowledgement 
 The author would like to appreciate Stack Overflow for the data. The data can be found [here](https://www.kaggle.com/datasets/stackoverflow/so-survey-2017). Please feel free to use the code here as you would like!
-
-<font color="red">This text is red!</font>

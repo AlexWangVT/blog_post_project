@@ -17,11 +17,14 @@ The purpose of this project is to investigate the background and career satisfac
 The stackoverflow data is used for the analysis.
 
 ## Description of files in the repo
-* background_study.ipynb: examine the backgrounds of developers in terms of formal eduction, major, career satisfaction, and computer understanding.
+* blog_post_project.ipynb: the code file briefly introduces business questions, loads the raw data, cleans data by removing missing values, develops a prediction model for expected salary estimation, and finally evaluates the results by visualization.
 
-* program_experience.ipynb: investigate how many years of programming and coding job experience developers typically have.
+## Git
+The easiest way to download and install these project is by using git from the command-line:
 
-* predict_expectedSalary: quantitatively analyze the expected salary after graduation using a linear model.
+```diff
+# git clone https://github.com/AlexWangVT/blog_post_project.git
+```
 
 ## Summary of results analysis
 * People with bachelor or Master degree are most likely to become a developer. Those without any formal education is least likely to switch to a new career as a software developer.

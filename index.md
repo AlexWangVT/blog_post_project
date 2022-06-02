@@ -1,48 +1,41 @@
-# What is the background of developers and their career satisfaction 
+# What is the background of developers and their career satisfaction
 A data based approach using StackOverflow's developer survey data from 2017.
 
 ## Introduction
-It is widely accepted that the high tech field offers amazing salary and welfare package, which attracts increasingly more professionals from other areas. However, it is still unknown that who might be interested in and more willing to moving their current careers towards the high tech field. People may have different point of view on this, yet the survey data collected from current developers by Stack Overflow may give valuable insights into the questions of interest. The survey data covers 64,000 reviews from 213 countries and territories. The survey aims to understand multiple aspects of jobs related to software development and data analytics. 
+It is widely accepted that the high tech field offers amazing salary and welfare package, attracting increasingly more professionals from other fields. However, it is still unknown who is more likely to become a developer and how long they may stay in the field. People may have different point of view on this, yet the survey data collected from current developers by Stack Overflow may give valuable insights into the questions of interest. The survey data covers 64,000 reviews from 213 countries and territories. The survey aims to understand multiple aspects of jobs related to software development and data analytics. 
+
+![Figure](developercareer.png)
 
 We are interested in deep diving the solutions to three questions of interest:
 
-* What is the academic background of a developer?
-* How many years of programming experiences do the developers typically have?
+* What are academic backgrounds of developers?
 * Do developers satisfy their career?
+* How long do developers stay in the field?
 
-## Part I: What is the academic background of a developer?
+## Part I: Academic backgrounds of developers
 
 Are people with advanced degrees more likely to switch to a career as software engineer, or those without formal education? What are the academic background of those engaging in the developer career? 
 
 ![Figure 1](background1.png)<p align = "center">
-Fig.1-The academic background of developers
-</p> describes the academic background of the participants. More than 40% of the participants are holding a Bachelor degree and 20%+ holding a Master. Those without formal eduction experience have less sense to switch their careers to the high tech field. More than 75% of the developers have the computer or IT background. Most of them come from computer science or software engineering. The rest are from science, engineering, and other fields. 
+Fig.1-The academic background of developers</p> 
+Figure 1 describes the academic background of the participants. More than 40% of the participants are holding a Bachelor degree and 20%+ holding a Master. Those without formal eduction experience have less sense to switch their careers to the high tech field. More than 75% of the developers have the computer or IT background. Most of them come from computer science or software engineering. The rest are from science, engineering, and other fields. 
 
-![Figure 2](background2.png) describe the career satisfaction and computer understanding of the participants. More than 70% of the participants satisfy their career with the satisfactory level ranging from 7 to 10. Also, more than half of them think that they understand computer well, yet near 40% think that they don't know a lot about computer and need further trainings. 
+## Part II: Do developers satisfy their career?
+![Figure 2](background2.png)<p align = "center">
+Fig.2-Career satisfaction and computer understanding of developers</p> 
+Figure 2 gives valuable insights into the career satisfaction and computer understanding of the participants. More than 70% of the participants satisfy their career with the satisfactory level ranging from 7 to 10. Also, more than 60% of the participants think that they don't know a lot about computer but are willing to get further trainings to promote their careers in this field. 
 
-## Part II: 
+## Part III: How long do developers stay in the field?
+![Figure 3](yearsprogram.png)<p align = "center">
+Fig.3-Years of programming and coding job</p> 
+Figure 3 analyzes how long a developer typically stays in the field. Interestingly, most of the developers have less than 10 years of programming or coding job experience with an exception of the group with 20 more years. This implies that switching to another career mostly occur between 10 and 20 years of becoming a developer. Those coding more than 20 years are less likely to jump to a new field. But why is that? 
 
-## How many years 
-## Header 2
-### Header 3
+## Conclusion
+In this article, we provide a preliminary analysis about the background of developers, their career satisfaction, and how long they will stay in the field. 
+1. Most of the developers have computer or IT background with Bacherlor degree or higher. 
+2. Most of them satisfy their career and are willing to participate in more trainings for better understanding computer knowledges.
+3. Switching to a new career mostly happen 10-20 years after someone become a develper.
 
-- Bulleted
-- List
+The findings are observational and preliminary, and trigger an interesting question: 
+<span style="font-size:larger;">Why does career-hopping often occur 10-20 years after someone become a develper?</span>
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AlexWangVT/blog_post_project/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.

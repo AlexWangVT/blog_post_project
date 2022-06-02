@@ -38,4 +38,6 @@ In this article, we provide a preliminary analysis about the background of devel
 
 The findings are observational and preliminary, and trigger an interesting question: 
 
-**Why does career-hopping often occur 10-20 years after someone become a develper?**
+```diff
+- Why does career-hopping often occur 10-20 years after someone become a develper?
+```

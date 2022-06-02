@@ -14,9 +14,9 @@ We are interested in deep diving the solutions to three questions of interest:
 
 Are people with advanced degrees more likely to switch to a career as software engineer, or those without formal education? What are the academic background of those engaging in the developer career? 
 
-![Figure 1](background1.png) describes the academic background of the participants. More than 40% of the participants are holding a Bachelor degree and 20%+ holding a Master. Those without formal eduction experience have less sense to switch their careers to the high tech field. More than 75% of the developers have the computer or IT background. Most of them come from computer science or software engineering. The rest are from science, engineering, and other fields. 
+![Figure 1](background1.png)*The academic background of developers* describes the academic background of the participants. More than 40% of the participants are holding a Bachelor degree and 20%+ holding a Master. Those without formal eduction experience have less sense to switch their careers to the high tech field. More than 75% of the developers have the computer or IT background. Most of them come from computer science or software engineering. The rest are from science, engineering, and other fields. 
 
-[Figure 2](https://github.com/AlexWangVT/blog_post_project/blob/master/results/background2.png) describe the career satisfaction and computer understanding of the participants. More than 70% of the participants satisfy their career with the satisfactory level ranging from 7 to 10. Also, more than half of them think that they understand computer well, yet near 40% think that they don't know a lot about computer and need further trainings. 
+![Figure 2](background2.png) describe the career satisfaction and computer understanding of the participants. More than 70% of the participants satisfy their career with the satisfactory level ranging from 7 to 10. Also, more than half of them think that they understand computer well, yet near 40% think that they don't know a lot about computer and need further trainings. 
 
 ## Part II: 
 
